@@ -1,0 +1,32 @@
+# Sora theme for Lazygit
+# https://github.com/aejkatappaja/sora.nvim
+#
+# Add to your lazygit config.yml:
+#   theme:
+#     activeBorderColor: ["#80c8e0", "bold"]
+#     ...
+
+gui:
+  theme:
+    activeBorderColor:
+      - "#80c8e0"
+      - bold
+    inactiveBorderColor:
+      - "#222838"
+    searchingActiveBorderColor:
+      - "#d4b878"
+      - bold
+    optionsTextColor:
+      - "#80c8e0"
+    selectedLineBgColor:
+      - "#1e2430"
+    selectedRangeBgColor:
+      - "#1e2430"
+    cherryPickedCommitBgColor:
+      - "#14161e"
+    cherryPickedCommitFgColor:
+      - "#80c8e0"
+    unstagedChangesColor:
+      - "#c46c78"
+    defaultFgColor:
+      - "#c8d0e0"
