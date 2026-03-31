@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <b>空 - sky</b><br/>
-  <sub>A deep colorscheme for Neovim. Ethereal cyan. Muted accents. Near-black canvas.</sub>
+  <b>空</b><br/>
+  <sub>A deep colorscheme for Neovim</sub>
 </p>
 
 <p align="center">
