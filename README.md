@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <b>空</b><br/>
-  <sub>A deep colorscheme for Neovim</sub>
+  <b>空</b>
 </p>
 
 <p align="center">
