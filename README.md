@@ -35,7 +35,7 @@ Eight named accents, each with a clear role. No neon, no Christmas tree.
 
 ```lua
 {
-  "aejkatappaja/sora.nvim",
+  "Aejkatappaja/sora",
   lazy = false,
   priority = 1000,
   opts = {},
@@ -53,7 +53,7 @@ Eight named accents, each with a clear role. No neon, no Christmas tree.
 
 ```lua
 use {
-  "aejkatappaja/sora.nvim",
+  "Aejkatappaja/sora",
   config = function()
     require("sora").setup()
     vim.cmd("colorscheme sora")
@@ -67,7 +67,7 @@ use {
 <summary><b>mini.deps</b></summary>
 
 ```lua
-MiniDeps.add("aejkatappaja/sora.nvim")
+MiniDeps.add("Aejkatappaja/sora")
 require("sora").setup()
 vim.cmd("colorscheme sora")
 ```
