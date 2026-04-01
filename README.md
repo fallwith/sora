@@ -156,6 +156,7 @@ Sora everywhere:
 | [Yazi](https://yazi-rs.github.io) | `extras/yazi/sora.toml` | `cp` to `~/.config/yazi/theme.toml` |
 | [btop](https://github.com/aristocratos/btop) | `extras/btop/sora.theme` | `cp` to `~/.config/btop/themes/` |
 | [Slack](https://slack.com) | `extras/slack/sora.txt` | paste in Slack sidebar theme |
+| [Firefox](https://www.mozilla.org/firefox/) | `extras/firefox/manifest.json` | zip and load via `about:debugging` |
 
 ## License
 
