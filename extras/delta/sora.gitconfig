@@ -4,13 +4,17 @@
 # Add to your .gitconfig:
 #   [include]
 #     path = /path/to/sora.gitconfig
+#
+# For syntax highlighting, install the bat theme:
+#   cp /path/to/extras/bat/sora.tmTheme "$(bat --config-dir)/themes/"
+#   bat cache --build
 
 [delta]
-  syntax-theme = none
-  minus-style = "#c46c78" "#1c1014"
-  minus-emph-style = "#c46c78" bold "#2a1420"
-  plus-style = "#68b080" "#0e1c16"
-  plus-emph-style = "#68b080" bold "#142c1c"
+  syntax-theme = Sora
+  minus-style = syntax "#1c1014"
+  minus-emph-style = syntax bold "#2a1420"
+  plus-style = syntax "#0e1c16"
+  plus-emph-style = syntax bold "#142c1c"
   hunk-header-style = "#9aa4b8" italic
   hunk-header-decoration-style = "#222838" box
   file-style = "#80c8e0" bold
