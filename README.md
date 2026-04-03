@@ -146,7 +146,8 @@ Sora everywhere:
 | [Foot](https://codeberg.org/dnkl/foot) | `extras/foot/sora.ini` | `include` in `foot.ini` |
 | [Vim](https://www.vim.org) | `extras/vim/sora.vim` | `cp` to `~/.vim/colors/` |
 | [Lazygit](https://github.com/jesseduffield/lazygit) | `extras/lazygit/sora.yml` | merge into `config.yml` |
-| [Delta](https://github.com/dandavison/delta) | `extras/delta/sora.gitconfig` | `include` in `.gitconfig` |
+| [bat](https://github.com/sharkdp/bat) | `extras/bat/sora.tmTheme` | `cp` to `$(bat --config-dir)/themes/` + `bat cache --build` |
+| [Delta](https://github.com/dandavison/delta) | `extras/delta/sora.gitconfig` | `include` in `.gitconfig` (install bat theme first) |
 | [fzf](https://github.com/junegunn/fzf) | `extras/fzf/sora.sh` | `source` in shell rc |
 | [Yazi](https://yazi-rs.github.io) | `extras/yazi/sora.toml` | `cp` to `~/.config/yazi/theme.toml` |
 | [btop](https://github.com/aristocratos/btop) | `extras/btop/sora.theme` | `cp` to `~/.config/btop/themes/` |
