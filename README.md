@@ -142,6 +142,8 @@ Sora everywhere:
 | [Ghostty](https://ghostty.org) | `extras/ghostty/sora` | `cp` to `~/.config/ghostty/themes/` |
 | [Kitty](https://sw.kovidgoyal.net/kitty/) | `extras/kitty/sora.conf` | `include` in `kitty.conf` |
 | [Alacritty](https://alacritty.org) | `extras/alacritty/sora.toml` | `import` in `alacritty.toml` |
+| [WezTerm](https://wezfurlong.org/wezterm/) | `extras/wezterm/sora.toml` | `cp` to `~/.config/wezterm/colors/` |
+| [Foot](https://codeberg.org/dnkl/foot) | `extras/foot/sora.ini` | `include` in `foot.ini` |
 | [Vim](https://www.vim.org) | `extras/vim/sora.vim` | `cp` to `~/.vim/colors/` |
 | [Lazygit](https://github.com/jesseduffield/lazygit) | `extras/lazygit/sora.yml` | merge into `config.yml` |
 | [Delta](https://github.com/dandavison/delta) | `extras/delta/sora.gitconfig` | `include` in `.gitconfig` |
