@@ -159,6 +159,7 @@ Sora everywhere:
 | [Firefox](https://www.mozilla.org/firefox/) | `extras/firefox/manifest.json` | zip and load via `about:debugging` |
 | [macOS Terminal](https://support.apple.com/guide/terminal) | `extras/macos-terminal/sora.terminal` | double-click to import |
 | [iTerm2](https://iterm2.com) | `extras/macos-terminal/sora.itermcolors` | import in Preferences > Profiles > Colors |
+| [Obsidian](https://obsidian.md) | `extras/obsidian/theme.css` | `cp` folder to `<vault>/.obsidian/themes/Sora/` |
 
 ### tmux
 
