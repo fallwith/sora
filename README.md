@@ -157,6 +157,7 @@ Sora everywhere:
 | [tokyo-night-tmux](https://github.com/janoamaral/tokyo-night-tmux) | `extras/tmux/tokyo-night-tmux-sora.sh` | see [tmux](#tmux) below |
 | [Slack](https://slack.com) | `extras/slack/sora.txt` | paste in Slack sidebar theme |
 | [Firefox](https://www.mozilla.org/firefox/) | `extras/firefox/manifest.json` | zip and load via `about:debugging` |
+| Firefox Start Page | `extras/firefox-start/index.html` | set as homepage `file://...` (edit `USER` const first) |
 | [macOS Terminal](https://support.apple.com/guide/terminal) | `extras/macos-terminal/sora.terminal` | double-click to import |
 | [iTerm2](https://iterm2.com) | `extras/macos-terminal/sora.itermcolors` | import in Preferences > Profiles > Colors |
 | [Obsidian](https://obsidian.md) | `extras/obsidian/theme.css` | `cp` folder to `<vault>/.obsidian/themes/Sora/` |
